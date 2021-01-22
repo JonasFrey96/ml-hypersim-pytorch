@@ -44,7 +44,7 @@ Currently the validation dataset is created by setting the last N-frames for eac
 
 Test the dataloader by inserting the correct path in def test() function and call the ```ml_hypersim.py``` script.  
 ```
-python cfg/ml_hypersim.py 
+python dataset/ml_hypersim.py 
 ```
 
 The mask and image are stored in the repository.  
